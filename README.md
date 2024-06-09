@@ -1,3 +1,2 @@
-# Airtribe
-# HTML Learning - Assignment 1 - 09 June 2024
-# Version 1
+# Airtribe - Version 1
+HTML Learning - Assignment 1 - 09 June 2024
